@@ -1,0 +1,19 @@
+body{
+    max-width: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+label {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+td{
+    text-align: center;
+    padding: 2px;
+    padding-right: 40px;
+  }
+th{
+    padding-top: 10px;
+}
